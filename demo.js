@@ -1,8 +1,8 @@
 /*
  * @Author: mikey.zhaopeng
  * @Date: 2016-08-09 13:18:58
- * @Last Modified by: mikey.zhaopeng
- * @Last Modified time: 2016-08-09 13:19:11
+ * @Last Modified by: iallai iallai.info@gmai.com
+ * @Last Modified time: 2018-07-18 13:48:22
  */
 
-console.log('hello world!');
+console.log("hello world!");
